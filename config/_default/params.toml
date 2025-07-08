@@ -62,8 +62,9 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Data Engineering Services Harare, Zimbabwe", "Data Engineering Services, South Africa", "Custom Software Development Zimbabwe", "Custom Software Development South Africa", "Custom ERP Zimbabwe"]
-description = "Bespoke Software and Data Engineering Services in Zimbabwe and South Africa"
+keywords = ["Data Engineering Services Harare, Zimbabwe", "Data Engineering Services, South Africa", "Custom Software Development Zimbabwe", "Custom Software Development South Africa", "Custom ERP Zimbabwe",
+"Software | IT Architecture Consulting", "Data Consulting"]
+description = "IT Architecture Consulting, Bespoke Software and Data Engineering Services in Zimbabwe and South Africa"
 author = "sekhele"
 twitter = "sekhele"
 image = "images/og-image.png"

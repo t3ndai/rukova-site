@@ -27,6 +27,16 @@ features:
       label: "Get Started Now"
       link: "#"
 
+  - title: "IT - Software & Data Architecture Consulting"
+    image: "/images/puzzle.jpg"
+    content: "Experts in designing scalable and robust systems that are cloud native. We can help your team build the right architecture for your business today and tomorrow. Let _Systems are Down_ be a thing of the past."
+    bulletpoints:
+      - "Cloud Native Architecture"
+      - "Data Architecture"
+      - "Streaming Systems"
+      - "Zero Downtime Systems"
+      - "99.99% Uptime Systems i.e Less than  52 minutes of downtime per year"
+
   - title: "Custom Software Solutions"
     image: "/images/service-2.png"
     content: "Your businesss is unique. Your software should be too.
