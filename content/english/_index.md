@@ -19,7 +19,7 @@ features:
       - "Database & Datastore Optimization"
       - "Systems Integration"
       - "NoSQL"
-      - "Data Warehousing"
+      - "Data Warehousing | Data Lakes | Data Lakehouses"
       - "Full-text & Indexed Search"
       - High-volume, Relational & Non-relational Data Storage (Big Data)
     button:
