@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Bespoke Software Solutions for your Business"
-  content: "We specialise in engineering bespoke Enterprise Resource Planning (ERP) systems and robust Data solutions that transform complex operations into streamlined, efficient, and intelligent processes. Our mission is to build the technological and financial backbone that empowers our clients to achieve sustainable growth, compliance, and a significant competitive advantage."
+  title: "Bespoke Software & Data Solutions for your Financial Services in SADC"
+  content: "We specialise in engineering bespoke Software and robust Data solutions that transform complex operations into streamlined, efficient, and intelligent processes. Our mission is to build the technological and financial backbone that empowers our clients to achieve sustainable growth, compliance, and a significant competitive advantage."
   image: "/images/serene.jpg"
 
 # Features
@@ -42,9 +42,6 @@ features:
     content: "Your businesss is unique. Your software should be too.
     Stop Spending Money on Software that Doesn't Work for You. & Start Investing in Software that Works for You."
     bulletpoints:
-      - "Custom ERP Systems"
-      - "Custom CRM & SRM Systems"
-      - "HRIS"
       - "Back-Office Systems"
     button:
       enable: false
