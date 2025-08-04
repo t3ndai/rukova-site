@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Bespoke Software & Data Solutions for your Financial Services in SADC"
+  title: "Bespoke Software & Data Solutions for Financial Services in SADC"
   content: "We specialise in engineering bespoke Software and robust Data solutions that transform complex operations into streamlined, efficient, and intelligent processes. Our mission is to build the technological and financial backbone that empowers our clients to achieve sustainable growth, compliance, and a significant competitive advantage."
   image: "/images/serene.jpg"
 
